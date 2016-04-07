@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/erikllerena/Documents/eAS/Sunshine/app/build/intermediates/res/merged/debug/menu/detail.xml",
+        "source": "/Users/erikllerena/Documents/eAS/Sunshine/app/src/main/res/menu/detail.xml"
+    },
+    {
+        "merged": "/Users/erikllerena/Documents/eAS/Sunshine/app/build/intermediates/res/merged/debug/menu/forecastfragment.xml",
+        "source": "/Users/erikllerena/Documents/eAS/Sunshine/app/src/main/res/menu/forecastfragment.xml"
+    },
+    {
+        "merged": "/Users/erikllerena/Documents/eAS/Sunshine/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/erikllerena/Documents/eAS/Sunshine/app/src/main/res/menu/main.xml"
+    }
+]
